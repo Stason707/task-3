@@ -21,7 +21,6 @@ LICENSE: [MIT](./license.md)
     * [git push](/commands/git_push.md)
     * [git reset](/commands/git_reset.md)
     * [git clean](/commands/git_clean.md)
-4. Как правильно закончить работу с GIT
 
 ---
 
