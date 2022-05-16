@@ -1,7 +1,8 @@
 [*Вернуться к содержанию*](/readme.md)
-# Git status
 
-## Зачем нужна команда `<git status>`
+<h1 align="center">Git status</h1>
+
+## Зачем нужна команда git status
 
 Команда `<git status>` показывает статус рабочего дерева проекта
 
