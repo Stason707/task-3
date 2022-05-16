@@ -1,15 +1,8 @@
 <h1 align="center">Инструкция по работе с GIT</h1>
 
-<h2 align="center">
-
 ![git-logo](./assets/git-logo.png)
 
-</h2>
-
----
-
 <h2 align="center">Содержание</h2>
-
 
 1. Введение  
 - [История создания GIT](history_git.md)
